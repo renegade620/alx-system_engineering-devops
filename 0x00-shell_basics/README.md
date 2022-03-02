@@ -27,3 +27,13 @@
 13-symbolic link creates a symbolic link to /bin/ls named "ls"
 
 14-copy html copies all HTML files from current working directory to parent but only those not existing in parent
+
+100-lets move moves all files beginning with uppercase letter to destination
+
+101-clean emacs deletes all files in current working directory that end with ~
+
+102-tree creates directories in current directory
+
+103-commas lists all files and directories of current directory separated by commas
+
+school.mgc creates a amgic file that can be used with command file to detect School data files
