@@ -6,5 +6,5 @@ while true
 do
 echo "To infinity and beyond indefinitely"
 sleep 2
-trap 'echo "I am invinsible!!!" ' TERM
+trap 'echo "I am invinsible!!!" ' SIGTERM
 done
